@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" standalone="no"?>
+
+        <?xml-stylesheet type="text/css" href="graph.css"?>
+
+        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 390" class="graph" aria-labelledby="title" role="img" style="font-family: Open Sans, sans-serif;">
+        <title id="title">A line chart showing some information</title>
+        <g class="grid x-grid" id="xGrid" style="stroke: #838383;
+                stroke-dasharray: 0;
+                stroke-width: 1;">
+        <line x1="50" x2="50" y1="10" y2="360"></line>
+        </g>
+        <g class="grid y-grid" id="yGrid" style="stroke: #838383;
+                 stroke-dasharray: 0;
+                 stroke-width: 1;">
+        <line x1="50" x2="770" y1="360" y2="360"></line>
+        </g>
+        <g class="labels x-labels" style="text-anchor: middle; font-size: 11px;">
+<g class="tick" opacity="1" transform="translate(50, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(74, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(98, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(122, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(146, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(170, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(194, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(218, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(242, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(266, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(290, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(314, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(338, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(362, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(386, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(410, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(434, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(458, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(482, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(506, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(530, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(554, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(578, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(602, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(626, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(650, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(674, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(698, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(722, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(746, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<g class="tick" opacity="1" transform="translate(770, 360)">
+<line stroke="#ccc" stroke-width="0.7" y2="6" y1="-350"/>
+</g>
+<text x="50" y="380">14-10-23 г.</text> 
+<text x="74" y="380"></text> 
+<text x="98" y="380"></text> 
+<text x="122" y="380">25-11-23 г.</text> 
+<text x="146" y="380"></text> 
+<text x="170" y="380"></text> 
+<text x="194" y="380">06-01-24 г.</text> 
+<text x="218" y="380"></text> 
+<text x="242" y="380"></text> 
+<text x="266" y="380">17-02-24 г.</text> 
+<text x="290" y="380"></text> 
+<text x="314" y="380"></text> 
+<text x="338" y="380">28-03-24 г.</text> 
+<text x="362" y="380"></text> 
+<text x="386" y="380"></text> 
+<text x="410" y="380">02-04-24 г.</text> 
+<text x="434" y="380"></text> 
+<text x="458" y="380"></text> 
+<text x="482" y="380">12-04-24 г.</text> 
+<text x="506" y="380"></text> 
+<text x="530" y="380"></text> 
+<text x="554" y="380">23-04-24 г.</text> 
+<text x="578" y="380"></text> 
+<text x="602" y="380"></text> 
+<text x="626" y="380">06-05-24 г.</text> 
+<text x="650" y="380"></text> 
+<text x="674" y="380"></text> 
+<text x="698" y="380">13-05-24 г.</text> 
+<text x="722" y="380"></text> 
+<text x="746" y="380"></text> 
+<text x="770" y="380">04-07-24 г.</text> 
+<text x="735" dy="352" class="label-title" style="font-weight: bold; text-transform: uppercase; font-size: 12px; fill: black; text-anchor: end;transform: translate(30px);">время</text>
+</g>
+<g class="labels y-labels" style="text-anchor: end; font-size: 11px;">
+<g class="tick" opacity="1" transform="translate(50,10)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6" x1="720"/>
+        </g>
+        <g class="tick" opacity="1" transform="translate(50,60)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6" x1="720"/>
+        </g>
+        <g class="tick" opacity="1" transform="translate(50,110)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6" x1="720"/>
+        </g>
+        <g class="tick" opacity="1" transform="translate(50,160)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6" x1="720"/>
+        </g>
+        <g class="tick" opacity="1" transform="translate(50,210)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6" x1="720"/>
+        </g>
+        <g class="tick" opacity="1" transform="translate(50,260)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6" x1="720"/>
+        </g>
+        <g class="tick" opacity="1" transform="translate(50,310)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6" x1="720"/>
+        </g>
+        <g class="tick" opacity="1" transform="translate(50,360)">
+        <line stroke="#ccc" stroke-width="0.7" x2="-6"/>
+        </g><text x="40" y="15">30</text>
+<text x="40" y="65">25.7</text>
+<text x="40" y="115">21.4</text>
+<text x="40" y="165">17.1</text>
+<text x="40" y="215">12.9</text>
+<text x="40" y="265">8.6</text>
+<text x="40" y="315">4.3</text>
+<text x="40" y="365">0</text>
+<text x="135" y="25" class="label-title" style="font-weight: bold; text-transform: uppercase; font-size: 12px; fill: black; text-anchor: start; transform: translate(-80px);">Температура</text>
+</g>
+<path d="M50 80 L74 197 L98 208 L122 302 L146 10 L170 173 L194 348 L218 10 L242 138 L266 22 L290 337 L314 208 L338 48 L362 51 L386 79 L410 70 L434 62 L458 68 L482 46 L506 69 L530 73 L554 29 L578 64 L602 80 L626 91 L650 79 L674 58 L698 82 L722 40 L746 43 L770 48" stroke="rgba(0,0,255,0.1)" stroke-width="3" fill="none"/>
+<g class="data" data-setname="Our first data set" style="fill: rgba(0,0,255,1.0); stroke-width: 1;">
+<circle cx="50" cy="80" r="3"></circle>
+<circle cx="74" cy="197" r="3"></circle>
+<circle cx="98" cy="208" r="3"></circle>
+<circle cx="122" cy="302" r="3"></circle>
+<circle cx="146" cy="10" r="3"></circle>
+<circle cx="170" cy="173" r="3"></circle>
+<circle cx="194" cy="348" r="3"></circle>
+<circle cx="218" cy="10" r="3"></circle>
+<circle cx="242" cy="138" r="3"></circle>
+<circle cx="266" cy="22" r="3"></circle>
+<circle cx="290" cy="337" r="3"></circle>
+<circle cx="314" cy="208" r="3"></circle>
+<circle cx="338" cy="48" r="3"></circle>
+<circle cx="362" cy="51" r="3"></circle>
+<circle cx="386" cy="79" r="3"></circle>
+<circle cx="410" cy="70" r="3"></circle>
+<circle cx="434" cy="62" r="3"></circle>
+<circle cx="458" cy="68" r="3"></circle>
+<circle cx="482" cy="46" r="3"></circle>
+<circle cx="506" cy="69" r="3"></circle>
+<circle cx="530" cy="73" r="3"></circle>
+<circle cx="554" cy="29" r="3"></circle>
+<circle cx="578" cy="64" r="3"></circle>
+<circle cx="602" cy="80" r="3"></circle>
+<circle cx="626" cy="91" r="3"></circle>
+<circle cx="650" cy="79" r="3"></circle>
+<circle cx="674" cy="58" r="3"></circle>
+<circle cx="698" cy="82" r="3"></circle>
+<circle cx="722" cy="40" r="3"></circle>
+<circle cx="746" cy="43" r="3"></circle>
+<circle cx="770" cy="48" r="3"></circle>
+</g>
+</svg>
